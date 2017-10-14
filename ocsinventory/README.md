@@ -3,5 +3,4 @@ Monitorar os ativos na rede, a fim de gerenciar os softwares instalados na máqu
 
 Membros:
 - Felipe Lima
-- Iran Vital
 - Rayson Vinicius
