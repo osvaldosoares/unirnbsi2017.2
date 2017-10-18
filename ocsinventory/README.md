@@ -25,11 +25,11 @@ Itens de gerência:
   - Gerência de Desempenho
   
 Limiar:
-    Se uma máquina sem comunicação com o servidor a mais de 30 dias.
+    Se uma máquina estiver sem comunicação com o servidor a mais de 30 dias.
 
 Gatilho:
     Enviar e-mail para Gerente de TI, Administrador de Rede e Gerente de Suporte.
     Excluir a máquina da listagem de inventário.
 
 Ação:
-    Abrir um chamado para o Suporte de Hardware verificar se está máquina ainda está na rede da empresa. 
+    Abrir um chamado para o Suporte de Hardware verificar se esta máquina ainda está na rede da empresa. 
