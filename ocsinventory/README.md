@@ -23,3 +23,13 @@ Análise crítica das tecnologias a serem empregadas:
 Itens de gerência:
   - Gerência de Contabilização
   - Gerência de Desempenho
+  
+Limiar:
+    Se uma máquina sem comunicação com o servidor a mais de 30 dias.
+
+Gatilho:
+    Enviar e-mail para Gerente de TI, Administrador de Rede e Gerente de Suporte.
+    Excluir a máquina da listagem de inventário.
+
+Ação:
+    Abrir um chamado para o Suporte de Hardware verificar se está máquina ainda está na rede da empresa. 
